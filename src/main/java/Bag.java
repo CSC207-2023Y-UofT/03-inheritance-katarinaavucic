@@ -83,7 +83,6 @@ public abstract class Bag {
      *       The item is added into the Bag if the number of items
      *       in the bag is < the capacity of the Bag.
      *       Remember to modify numberOfContents accordingly.
-     *
      *       This method should return true if the item was added
      *       and false otherwise.
      */
